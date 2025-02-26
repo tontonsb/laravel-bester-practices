@@ -291,3 +291,7 @@ Just don't `->copy()` if an instance of `CarbonImmutable` would be more appropri
 Totally use native typehints and good method names. Do not repeat the info in a docblock.
 
 When the native tooling is not enough, don't be afraid to use a docblock. Explain what you need to explain.
+
+## You disagree?
+
+That's ok. Open up [an issue](https://github.com/tontonsb/laravel-bester-practices/issues), we can add some discussion on this stuff.
