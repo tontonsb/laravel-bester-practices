@@ -18,6 +18,6 @@ And I'll try to provide brief tips on that here.
 Nothing comprehensive, just by giving a small commentary on each of the [best practices](https://github.com/alexeymezenin/laravel-best-practices) making them even bester.
 
 > [!NOTE]  
-> I only knew Spaghetti and Ravioli, but I asked ChatGPT for the rest of the so it must be correct.
-> Even if it wasn't before this.
+> I only knew Spaghetti and Ravioli, but I asked ChatGPT for the rest of the terms so they must be correct.
+> Even if they weren't before this.
 > It also suggested me other great names like Goulash code (a mix of all techniques) and Casserole code (rewritten so much it has become unrecognizable).
